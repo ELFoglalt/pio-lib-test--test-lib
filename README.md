@@ -1,0 +1,1 @@
+This is a mock library for a PlatformIO [test project](https://github.com/ELFoglalt/pio-lib-test--test-project) to depend on.
